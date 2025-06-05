@@ -2,7 +2,7 @@
   <name>ScreenRecordingGuard</name>
   <description>Detect and react to screen recording or mirroring on iOS</description>
   <license>MIT</license>
-  <author email="openai@example.com">OpenAI Plugin Author</author>
+  <author email="manideep.yadlapalli@gmail.com">Manideep Yadlapalli</author>
 
   <js-module src="www/guard.js" name="ScreenRecordingGuard">
     <clobbers target="ScreenRecordingGuard" />
